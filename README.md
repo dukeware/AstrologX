@@ -1,9 +1,10 @@
-# Astrolog 7.60
+# AstrologX is a full featured astrology App for macOS
 
-This is a copy of the "official" version of Astrolog 7.60 (released April 9, 2023) described at: http://www.astrolog.org/astrolog.htm
+AstrologX is migrated from Astrolog under the terms of the GPL v2.
 
-The files here were copied from: http://www.astrolog.org/ftp/ast76src.zip
+Astrolog is a classic and outstanding astrology software. (Author: Walter D. Pullen. Website: http://www.astrolog.org/astrolog.htm)
+AstrologX is grafted under wxWidgets which can better support the direct use of Astrolog code and covers almost all graphic operation functions of Astrolog.
 
-The changes in version 7.60 are described at: http://www.astrolog.org/ftp/updat760.htm
+AstrologX guarantees not to collect or disclose any of your data or privacy. You can feed back any function problems or suggestions to us.
 
-No modifications have been made to any of these files, and the only addition is this GITHUB format README.
+Special thanks to Walter D. Pullen and all those unmentioned, seen and unseen, who have pointed out problems, suggested features, and sent many positive vibes! :-)
